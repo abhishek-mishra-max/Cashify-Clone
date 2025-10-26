@@ -1,0 +1,361 @@
+
+#body2{
+    padding-right: 89px;
+    padding-left: 120px;
+    margin-bottom: 10px;
+}
+.hc{
+    display: flex;
+    align-items: center;
+}
+.loc{
+    display: flex;
+}
+.logo{
+    background-color: white;
+}
+/* isko chnage kiya hu */
+.logo-img{
+    width: 150px;
+    height: auto;
+}
+.input{
+    padding-left: 640px;
+    height: 40px;
+    background: url(./search.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 24px;
+    padding-left: 27px;
+    padding-right: 640px;
+    background-color: #F5F5F5;
+    border-radius: 8px;
+    border: none;
+}
+.si{
+    background: url(./placeholder.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 20px 20px;
+    border: none;
+    font-size: 14px;
+    padding: 10px;
+    cursor: pointer;
+    font-weight: 400;
+    padding-right: 0px;
+    padding-left: 22px;
+    margin-left: 10px;
+
+}
+.h-btn{
+    width: 120px;
+    height: 40px;
+    padding: 0 16px;
+    font-size: 16px;
+    background-color: #00bfae;
+    border-radius: 7px;
+    margin-left: 10px;
+    border: none;
+    
+}
+/* Header2 */
+.h2c{
+    display: flex;
+    justify-content: space-evenly;
+    padding-right: 89px;
+    padding-left: 50px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+#aa{
+    border: none;
+    font-weight: bold;
+    
+}
+hr{
+    background-color: gray;
+    opacity: 0.5;
+}
+/* caro section */
+.caro-body{
+    padding-left: 120px;
+    padding-right: 89px;
+}
+.carousel-item img {
+    border-radius: 10px;
+}
+.carousel-inner{
+    position: relative;
+    left: -30px;
+
+}
+/* Card Section1  Start */
+.box-container{
+    display: grid;
+    grid-template-columns: repeat(8,1fr);
+    
+}
+.box > img{
+    width: 150px;
+    height: auto;
+    border-radius: 13px;
+}
+.card-container1{
+    padding-right: 90px;
+    padding-left: 90px;
+    margin-top: 20px;
+}
+p{
+    display: flex;
+    justify-content: center;
+    font-weight: 500;
+}
+/* card section2 */
+.box-container2{
+    display: grid;
+    grid-template-columns: repeat(8,1fr);
+}
+.card-container2{
+    padding-right: 90px;
+    padding-left: 90px;
+    margin-top: 20px;
+}
+/* section3 */
+.card-container3{
+     padding-right: 90px;
+    padding-left: 90px;
+    margin-top: 20px;
+    
+}
+.he{
+    display: flex;
+    justify-content: space-between;
+}
+/* section4 */
+.card-container4{
+     padding-right: 90px;
+    padding-left: 90px;
+    margin-top: 20px;
+}
+
+/* section5 */
+.card-container5{
+     padding-right: 90px;
+    padding-left:62px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.hu{
+    display: flex;
+    justify-content: space-between;
+}
+.hub5-box{
+    background-color: #e7e7e7;
+    position: relative;
+}
+.h5-con{
+    padding: 10px;
+}
+.hub-con{
+    display: flex;
+    column-gap: 11px;
+    position: relative;
+}
+.hub{
+    background-color: white;
+    border-radius: 8px;
+    margin-left: 10px;
+    padding: 10px;
+    z-index: 1;
+    position: relative;
+    bottom: -15px;
+
+}
+.hub-btn{
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    border: none;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-bottom: 15px;
+}
+
+.input-img{
+     background: url(./arrow-right.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 24px;
+}
+
+/* Akhilesh Footer Css Code start here */
+
+.sec{
+    background-color: black;
+    padding-bottom: 50px;
+    padding-top: 20px;
+    padding-left:60px ;
+    padding-right:60px ;
+}
+h1{
+    color: white;
+    font-weight: bold;
+    margin-bottom: 50px;
+    margin-left: 20px;
+}
+.card{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+.card1{
+    width: 320px;
+    height: 353px;
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.c{
+    height: 44px;
+    width: 44px;
+}
+.dp{
+    height: 40px;
+    width: 40px;
+}
+.card2{
+    width: 320px;
+    height: 307px;
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.card3{
+    width: 320px;
+    height: 307px;
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.card4{
+    width: 320px;
+    height: 307px;
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.dp{
+    border-radius: 50%;
+    position: relative;
+    top: 120px;
+}
+h4{
+    margin-left:50px ;
+    position: relative;
+    top: 60px;
+    
+}
+h5{
+    margin-left:50px ;
+    margin-top: 60px;
+    color: gray;
+    font-weight: bold;
+}
+.mar{
+    height: auto;
+    background-color: #42c8b7;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.logos{
+    width: 96px;
+    height: 32px;
+    animation: move 3s linear infinite;
+}
+.lg{
+    display: flex;
+    justify-content: space-between;
+}
+.logos1{
+    height: 40px;
+    animation: move 3s linear infinite;
+}
+.logos2{
+    height: 40px;
+    animation: move 3s linear infinite ;
+}
+@keyframes move {
+    0%{
+        transform: translateX(100%);
+    }
+    100%{
+        transform: translateX(80vh);
+    }
+}
+.footer{
+    background-color:whitesmoke;
+    height: auto;
+    padding-top: 50px;
+    margin-top: 50px;
+}
+.img{
+    height: 36px;
+    width: 36px;
+    margin-top: 50px;
+}
+.logo{
+    
+    width: 240px;
+    height: 64px;
+}
+.main{
+    display: flex;
+    justify-content: space-evenly;
+}
+.i7{
+    display: flex;
+    justify-content: end;
+    margin-right: 70px;
+    position: relative;
+    bottom: 100px;
+}
+.h{
+    color: gray;
+    font-weight: bold;
+}
+.i5{
+    margin-right: 100px;
+}
+.last{
+    height: 112px;
+    width: 384px;
+    margin-top: 30px;
+}
+.main2{
+    display: flex;
+    padding-left:50px ;
+    padding-right:50px ;
+}
+.lp{
+    margin-left: 50px;
+}
+.imgg{
+    width: 1280px;
+    height: 343px;
+    margin-left: 115px;
+}
+.p{
+    margin-top: 350px;
+    padding-left: 120px;
+    padding-right: 89px;
+}
+
+/* End Here */
